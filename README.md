@@ -12,5 +12,6 @@ Barclays currently has 24 million customers. The success of their open banking p
 
 [Barclays Wikipedia](https://en.wikipedia.org/wiki/Barclays)
 [Business Insider](https://www.businessinsider.com/barclays-open-banking-feature-2018-9#:~:text=Barclays%20has%20introduced%20a%20new,the%20Barclays%20mobile%20banking%20app.&text=At%20this%20point%2C%20the%20new,accounts%20via%20the%20Barclays%20app)
-[Barclays Website](https://www.barclays.co.uk/business-banking/business-insight/open-banking/
-)
+[Barclays Website](https://www.barclays.co.uk/business-banking/business-insight/open-banking/)
+
+
