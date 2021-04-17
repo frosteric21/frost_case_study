@@ -10,8 +10,8 @@ There are other companies that are developing open banking methods such as HSBC 
 
 Barclays currently has 24 million customers. The success of their open banking platform will be determined by how many customers are added, and the overall satisfaction with the service. As other banks try to improve their technology and online presence Barclays will need to continue to innovate to stay ahead in the online convenience game. The main suggestion I would have isn’t necessarily on the tech side of this endeavor, but on the business side. Now that there is the ability to aggregate all kinds of banking information the next step would be to increase the size of the umbrella your company is casting. Add as many banks as possible, not only in England, but try to find ways to have this feature in other countries. Find all the institutions that are willing to agree to partner with you and attract people in other countries that don’t have access to the features that would be provided by Barclays. With the ability to communicate with various APIs, my next step would be to scale up. 
 
-[Barclays Wikipedia](https://en.wikipedia.org/wiki/Barclays)
-[Business Insider](https://www.businessinsider.com/barclays-open-banking-feature-2018-9#:~:text=Barclays%20has%20introduced%20a%20new,the%20Barclays%20mobile%20banking%20app.&text=At%20this%20point%2C%20the%20new,accounts%20via%20the%20Barclays%20app)
-[Barclays Website](https://www.barclays.co.uk/business-banking/business-insight/open-banking/)
+-[Barclays Wikipedia](https://en.wikipedia.org/wiki/Barclays)
+-[Business Insider](https://www.businessinsider.com/barclays-open-banking-feature-2018-9#:~:text=Barclays%20has%20introduced%20a%20new,the%20Barclays%20mobile%20banking%20app.&text=At%20this%20point%2C%20the%20new,accounts%20via%20the%20Barclays%20app)
+-[Barclays Website](https://www.barclays.co.uk/business-banking/business-insight/open-banking/)
 
 
